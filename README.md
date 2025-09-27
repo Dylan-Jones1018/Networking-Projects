@@ -1,2 +1,2 @@
 # Networking-Projects
-Here are some Network projetcs I've worked on these past couple of years!
+Here are some Network projetcs and labs I've worked on these past couple of years!
